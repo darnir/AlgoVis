@@ -28,13 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.shapeContainer1 = new Microsoft.VisualBasic.PowerPacks.ShapeContainer();
+            this.ovalShape1 = new Microsoft.VisualBasic.PowerPacks.OvalShape();
             this.SuspendLayout();
+            // 
+            // shapeContainer1
+            // 
+            this.shapeContainer1.Location = new System.Drawing.Point(0, 0);
+            this.shapeContainer1.Margin = new System.Windows.Forms.Padding(0);
+            this.shapeContainer1.Name = "shapeContainer1";
+            this.shapeContainer1.Shapes.AddRange(new Microsoft.VisualBasic.PowerPacks.Shape[] {
+            this.ovalShape1});
+            this.shapeContainer1.Size = new System.Drawing.Size(390, 398);
+            this.shapeContainer1.TabIndex = 0;
+            this.shapeContainer1.TabStop = false;
+            // 
+            // ovalShape1
+            // 
+            this.ovalShape1.Location = new System.Drawing.Point(175, 167);
+            this.ovalShape1.Name = "ovalShape1";
+            this.ovalShape1.Size = new System.Drawing.Size(75, 80);
+            this.ovalShape1.Click += new System.EventHandler(this.ovalShape1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(390, 398);
+            this.Controls.Add(this.shapeContainer1);
             this.Name = "Form1";
             this.Text = "AlgoVis";
             this.ResumeLayout(false);
@@ -42,6 +63,9 @@
         }
 
         #endregion
+
+        private Microsoft.VisualBasic.PowerPacks.ShapeContainer shapeContainer1;
+        private Microsoft.VisualBasic.PowerPacks.OvalShape ovalShape1;
     }
 }
 

@@ -16,5 +16,20 @@ namespace AlgoVis
         {
             InitializeComponent();
         }
+
+        private void ovalShape1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+
+    private partial class Node : Microsoft.VisualBasic.PowerPacks.OvalShape
+    {
+        #region "Constructor"
+        public Node()
+        {
+
+        }
+        #endregion
     }
 }

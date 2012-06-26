@@ -1,1 +1,10 @@
 C:\Users\Darshit\AlgoVis\AlgoVis\AlgoVis\bin\Debug\AlgoVis.exe.config
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\bin\Debug\AlgoVis.exe.config
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\bin\Debug\AlgoVis.exe
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\bin\Debug\AlgoVis.pdb
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.csprojResolveAssemblyReference.cache
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.Form1.resources
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.Properties.Resources.resources
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.csproj.GenerateResource.Cache
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.exe
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.pdb
