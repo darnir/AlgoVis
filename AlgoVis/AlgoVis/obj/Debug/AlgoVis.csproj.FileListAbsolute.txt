@@ -8,3 +8,5 @@ C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis
 C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.csproj.GenerateResource.Cache
 C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.exe
 C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\obj\Debug\AlgoVis.pdb
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\bin\Debug\NodeLib.dll
+C:\Users\Darshit\Documents\Programming\AlgoVis\AlgoVis\AlgoVis\bin\Debug\NodeLib.pdb
