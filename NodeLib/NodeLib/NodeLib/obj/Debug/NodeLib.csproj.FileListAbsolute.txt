@@ -1,6 +1,0 @@
-C:\Users\Darshit\Documents\Programming\AlgoVis\NodeLib\NodeLib\NodeLib\bin\Debug\NodeLib.dll
-C:\Users\Darshit\Documents\Programming\AlgoVis\NodeLib\NodeLib\NodeLib\bin\Debug\NodeLib.pdb
-C:\Users\Darshit\Documents\Programming\AlgoVis\NodeLib\NodeLib\NodeLib\obj\Debug\NodeLib.dll
-C:\Users\Darshit\Documents\Programming\AlgoVis\NodeLib\NodeLib\NodeLib\obj\Debug\NodeLib.pdb
-C:\Users\Darshit\Documents\Programming\AlgoVis\NodeLib\NodeLib\NodeLib\obj\Debug\NodeLib.Node.resources
-C:\Users\Darshit\Documents\Programming\AlgoVis\NodeLib\NodeLib\NodeLib\obj\Debug\NodeLib.csproj.GenerateResource.Cache

@@ -80,7 +80,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\NodeLib\NodeLib\NodeLib\NodeLib.csproj">
+    <ProjectReference Include="..\..\NodeLib\NodeLib\NodeLib.csproj">
       <Project>{9de5ca62-8ffe-4e4c-b95a-706b9cde7b5c}</Project>
       <Name>NodeLib</Name>
     </ProjectReference>

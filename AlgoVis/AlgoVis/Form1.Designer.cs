@@ -32,6 +32,8 @@
             this.ovalShape1 = new Microsoft.VisualBasic.PowerPacks.OvalShape();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.node1 = new NodeLib.Node();
+            this.node2 = new NodeLib.Node();
             this.SuspendLayout();
             // 
             // shapeContainer1
@@ -68,11 +70,32 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // node1
+            // 
+            this.node1.Data = null;
+            this.node1.Location = new System.Drawing.Point(96, 112);
+            this.node1.Name = "node1";
+            this.node1.Parent_Node = null;
+            this.node1.Size = new System.Drawing.Size(50, 50);
+            this.node1.TabIndex = 3;
+            // 
+            // node2
+            // 
+            this.node2.Data = null;
+            this.node2.Location = new System.Drawing.Point(271, 112);
+            this.node2.Name = "node2";
+            this.node2.Parent_Node = null;
+            this.node2.Size = new System.Drawing.Size(50, 50);
+            this.node2.TabIndex = 4;
+            this.node2.Load += new System.EventHandler(this.node2_Load);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(390, 398);
+            this.Controls.Add(this.node1);
+            this.Controls.Add(this.node2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.shapeContainer1);
@@ -90,6 +113,8 @@
         private Microsoft.VisualBasic.PowerPacks.OvalShape ovalShape1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button1;
+        private NodeLib.Node node1;
+        private NodeLib.Node node2;
     }
 }
 

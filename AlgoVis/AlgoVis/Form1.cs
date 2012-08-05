@@ -37,6 +37,11 @@ namespace AlgoVis
             i++;
         }
 
+        private void node2_Load(object sender, EventArgs e)
+        {
+            
+        }
+
     }
 
     
